@@ -5,6 +5,7 @@ body {
 .background {
   background-image: url("../images/photo-1471419890245-7bbd602d2c46.jpg");
   background-size: cover;
+  color: white;
 }
 
 .text{
@@ -12,6 +13,3 @@ body {
   font-weight: bolder;
 }
 
-h1 {
-  color: white;
-}
